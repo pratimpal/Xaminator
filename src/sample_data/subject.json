@@ -1,0 +1,45 @@
+[
+    {
+        "id": "CSE",
+        "fullname": "Computer Science & Engineering",
+        "author": "M. Pakira",
+        "imgurl": "imgbkt/CSE.jpg",
+        "lastmodified": "21-03-2021",
+        "questions":[
+            {
+                "text": "Who is the father of Computer ?",
+                "optA": "Charles Babbage",
+                "optB": "Alan Turing",
+                "optC": "Ada Lovelace",
+                "optD": "Blaise Pascal",
+                "ans": "optA"
+            }, 
+            {
+                "text": "Who is the full form of AI ?",
+                "optA": "Absoulute Intelligence",
+                "optB": "Artificial Ingine",
+                "optC": "Artificial Intelligence",
+                "optD": "Aero Induction",
+                "ans": "optC"
+            }
+
+        ]
+
+    },
+    
+    {
+        "id": "ECE",
+        "fullname": "Electronics & Communication Engineering",
+        "imgurl": "imgbkt/ECE.jpg",
+        "author": "Mr. Pinki",
+        "lastmodified": "17-03-2021"
+    },
+
+    {
+        "id": "ME",
+        "fullname": "Mechanical Engineering",
+        "imgurl": "imgbkt/ME.jpg", 
+        "author": "A. Das",
+        "lastmodified": "19-03-2021"
+    }
+]
